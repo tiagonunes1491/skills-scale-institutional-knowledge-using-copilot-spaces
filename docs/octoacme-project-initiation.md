@@ -28,6 +28,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager (required)
+  - Product Manager (required)
+  - Developer(s) (required)
+  - Scrum Master (if using agile ceremonies)
+  - UX Designer (if user-facing features)
+  - QA Engineer (required for quality validation)
+  - Release Manager (for complex or high-risk releases)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
